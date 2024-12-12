@@ -41,7 +41,7 @@ Eviction is a critical social and economic issue, often reflecting underlying pa
 -   **Eviction Counts**: Total events aggregated by phase, borough, and type (residential/commercial).
 -   **Spatial Clustering**: Identification of High-High and Low-Low clusters using Local Moran's I.
 -   **Temporal Trends**: Distribution of evictions across months and days of the week.
-
+1
 ###3. Data Limitations Incomplete Data:
 
 Some eviction records lack geographic or temporal details, which may introduce biases in spatial or temporal analyses. Limited information on underlying socio-economic factors (e.g., income levels, unemployment rates) hinders deeper causal analysis. Marshal Activity Data:
